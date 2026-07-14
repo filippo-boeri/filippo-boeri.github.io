@@ -60,7 +60,7 @@ plugins:
 author:
   name: "Filippo Boeri"
   avatar: "/assets/images/Boeri_photo_2.jpg"
-  bio: "Short one-line tagline about you"
+  bio: ""
   location: "London, UK"
   links:
     - label: "Email"
