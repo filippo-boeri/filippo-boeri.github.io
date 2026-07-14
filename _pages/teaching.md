@@ -1,5 +1,5 @@
 ---
-title: "Teaching"
+title: ""
 permalink: /teaching/
 layout: single
 author_profile: true
@@ -20,7 +20,7 @@ author_profile: true
 ## Teaching Assistant
 
 - **2021/22, 2022/23** — [GY314, The Economics of Housing Markets and Migration](https://www.lse.ac.uk/resources/calendar2020-2021/courseGuides/GY/2020_GY314.htm) — *LSE* (undergraduate level)  
-  [Students' evaluations →](https://www.dropbox.com/scl/fi/plnond5z0smsh3q23nf0x/GY314.pdf?rlkey=msml38bdwdv9rfkvbmabyjtex&st=yue738c9&dl=0)
+  [Students' evaluations](https://www.dropbox.com/scl/fi/plnond5z0smsh3q23nf0x/GY314.pdf?rlkey=msml38bdwdv9rfkvbmabyjtex&st=yue738c9&dl=0)
 - **2019/20** — [6SSPP362, International Trade](https://www.kcl.ac.uk/abroad/module-options/module?id=aa27b8f9-e4ce-4663-94b8-f80131b8f3db) — *Department of Political Economy, King's College* (undergraduate level)
 - **2016/17, 2017/18** — [EC230, Economics in Public Policy](https://www.lse.ac.uk/resources/calendar2020-2021/courseGuides/EC/2020_EC230.htm) — *LSE* (undergraduate level)
 - **2015/16, 2016/17** — [EC235, Economics of European Integration — Summer School](https://www.lse.ac.uk/study-at-lse/summer-schools/Summer-School/Courses/Secure/Economics/EC235) — *LSE* (undergraduate level)
