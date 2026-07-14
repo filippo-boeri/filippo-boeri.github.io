@@ -63,8 +63,8 @@ plugins:
 author:
   name: "Filippo Boeri"
   avatar: "/assets/images/Boeri_photo_2.jpg"
-  bio: "Assistant Professor"
-  location: "London, UK"
+  bio: "Assistant Professor of Economics"
+  location: ""
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
