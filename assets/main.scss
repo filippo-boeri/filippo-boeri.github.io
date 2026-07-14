@@ -6,7 +6,6 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-/* Smaller text site-wide */
 html {
   font-size: 11px !important;
 
@@ -23,7 +22,6 @@ html {
   }
 }
 
-/* Profile photo — natural shape, no circle crop */
 .author__avatar {
   width: auto !important;
   height: auto !important;
@@ -38,15 +36,10 @@ html {
   padding: 0 !important;
 }
 
-/* Section dividers on the research page */
 .page__content hr {
   margin: 2.5em 0 !important;
   border: none !important;
   border-top: 2px solid #ccc !important;
-}
-
-dialog:not([open]) {
-  display: none !important;
 }
 
 .pub-badge {
@@ -74,34 +67,17 @@ dialog:not([open]) {
   color: #fff !important;
 }
 
-.pub-modal {
-  max-width: 520px;
-  width: 90%;
-  border: none;
-  border-radius: 10px;
-  padding: 2em 2.25em;
-  background-color: #ffffff !important;
-  color: #2b2b2b !important;
-  box-shadow: 0 15px 50px rgba(0, 0, 0, 0.2);
-  line-height: 1.7;
+.pub-hidden {
+  display: none !important;
 }
 
-.pub-modal::backdrop {
-  background: rgba(0, 0, 0, 0.5);
-}
-
-.pub-modal-close {
-  float: right;
-  border: none;
-  background: none;
-  font-size: 1.4em;
-  line-height: 1;
-  cursor: pointer;
-  color: #999;
-  padding: 0;
-  margin: -0.25em -0.25em 0.75em 0;
-}
-
-.pub-modal-close:hover {
+.pub-abstract-box {
+  margin: 0.6em 0 1.6em 0;
+  padding: 1em 1.25em;
+  border-left: 3px solid #ccc;
+  background-color: #f7f7f7;
+  border-radius: 4px;
+  font-size: 0.85em;
+  line-height: 1.65;
   color: #333;
 }
