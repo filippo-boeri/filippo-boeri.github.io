@@ -100,5 +100,5 @@ The COVID-19 pandemic has profoundly reshaped commuting patterns and work dynami
 ## Selected Work in Progress
 
 **Aging, Technology and Migration**  
-joint with [Daniele Angelini](https://sites.google.com/view/daniele-angelini/home) (University of Vienna)
+joint with [Daniele Angelini](https://sites.google.com/view/daniele-angelini/home) (University of Vienna)  
 *Part of VisitINPS Project*
