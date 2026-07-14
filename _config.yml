@@ -24,6 +24,9 @@ github_username: username
 minimal_mistakes_skin: default
 search: true
 
+atom_feed:
+  hide: true
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -74,15 +77,6 @@ description: "Assistant Professor of Economics at City St George's, University o
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 defaults:
   # _posts
