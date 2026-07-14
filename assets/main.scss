@@ -6,36 +6,43 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-/* Smaller text site-wide — the theme scales almost everything off this root value */
+/* Smaller text site-wide */
 html {
-  font-size: 14px;
+  font-size: 11px !important;
 
   @include breakpoint($medium) {
-    font-size: 15px;
+    font-size: 12px !important;
   }
 
   @include breakpoint($large) {
-    font-size: 16px;
+    font-size: 12px !important;
   }
 
   @include breakpoint($x-large) {
-    font-size: 16px;
+    font-size: 13px !important;
   }
 }
 
-/* Profile photo — bigger, natural shape, no forced circle crop */
+/* Profile photo — natural shape, no circle crop */
 .author__avatar {
-  width: auto;
-  height: auto;
+  width: auto !important;
+  height: auto !important;
 }
 
 .author__avatar img {
-  max-width: 220px;
-  width: 100%;
-  height: auto;
-  border-radius: 4px;
-  border: none;
-  padding: 0;
+  max-width: 220px !important;
+  width: 100% !important;
+  height: auto !important;
+  border-radius: 4px !important;
+  border: none !important;
+  padding: 0 !important;
+}
+
+/* Section dividers on the research page */
+.page__content hr {
+  margin: 2.5em 0 !important;
+  border: none !important;
+  border-top: 2px solid #ccc !important;
 }
 
 dialog:not([open]) {
