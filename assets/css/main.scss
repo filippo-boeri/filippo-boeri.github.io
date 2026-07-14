@@ -82,11 +82,20 @@ html {
   color: #333;
 }
 
+.home-intro {
+  padding-top: 3em;
+}
+
 .home-photo {
   float: left;
-  width: 180px;
-  margin: 0 1.5em 1em 0;
+  width: 260px;
+  margin: 0 2em 1.5em 0;
   border-radius: 4px;
+}
+
+.home-bio p {
+  font-size: 17px;
+  line-height: 1.75;
 }
 
 .home-clear {
