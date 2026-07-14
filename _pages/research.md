@@ -11,7 +11,7 @@ author_profile: true
 *Filippo Boeri*  
 *Journal of Regional Science*
 
-<button class="pub-badge abstract-trigger" data-modal="abs-pub-1" type="button">Abstract</button> <a class="pub-badge" href="https://onlinelibrary.wiley.com/doi/10.1111/jors.70030" target="_blank" rel="noopener">Article</a>
+<button type="button" class="abstract-trigger" data-modal="abs-pub-1" style="display:inline-block; padding:0.4em 1.1em; margin:0 0.4em 0.4em 0; border:1px solid #ccc; border-radius:4px; background-color:#fff; color:#555; font-size:0.7em; font-weight:600; text-transform:uppercase; letter-spacing:0.05em; text-decoration:none; cursor:pointer;">Abstract</button><a href="https://onlinelibrary.wiley.com/doi/10.1111/jors.70030" target="_blank" rel="noopener" style="display:inline-block; padding:0.4em 1.1em; margin:0 0.4em 0.4em 0; border:1px solid #ccc; border-radius:4px; background-color:#fff; color:#555; font-size:0.7em; font-weight:600; text-transform:uppercase; letter-spacing:0.05em; text-decoration:none; cursor:pointer;">Article</a>
 
 <dialog id="abs-pub-1" class="pub-modal" markdown="1">
 <form method="dialog">
@@ -28,7 +28,7 @@ Placeholder abstract — summarize the paper's motivation, data, and main findin
 *Filippo Boeri*, joint with [Marco di Cataldo](https://marcodicataldo.wixsite.com/marcodicataldo) and [Elisabetta Pietrostefani](https://www.pietrostefani.com/)  
 *Journal of Economic Geography*
 
-<button class="pub-badge abstract-trigger" data-modal="abs-pub-2" type="button">Abstract</button> <a class="pub-badge" href="https://academic.oup.com/joeg/article/24/2/219/7499713" target="_blank" rel="noopener">Article</a>
+<button type="button" class="abstract-trigger" data-modal="abs-pub-2" style="display:inline-block; padding:0.4em 1.1em; margin:0 0.4em 0.4em 0; border:1px solid #ccc; border-radius:4px; background-color:#fff; color:#555; font-size:0.7em; font-weight:600; text-transform:uppercase; letter-spacing:0.05em; text-decoration:none; cursor:pointer;">Abstract</button><a href="https://academic.oup.com/joeg/article/24/2/219/7499713" target="_blank" rel="noopener" style="display:inline-block; padding:0.4em 1.1em; margin:0 0.4em 0.4em 0; border:1px solid #ccc; border-radius:4px; background-color:#fff; color:#555; font-size:0.7em; font-weight:600; text-transform:uppercase; letter-spacing:0.05em; text-decoration:none; cursor:pointer;">Article</a>
 
 <dialog id="abs-pub-2" class="pub-modal" markdown="1">
 <form method="dialog">
@@ -47,7 +47,7 @@ Placeholder abstract — summarize the paper's motivation, data, and main findin
 *Filippo Boeri*, joint with [Giuseppe Berlingieri](https://sites.google.com/site/giuseppeberlingieri/), [Danial Lashkari](https://sites.google.com/view/danial-lashkari/home), and [Jonathan Vogel](http://www.econ.ucla.edu/jvogel/)  
 *Revise & Resubmit, Journal of Political Economy*
 
-<button class="pub-badge abstract-trigger" data-modal="abs-wp-1" type="button">Abstract</button> <a class="pub-badge" href="https://www.nber.org/papers/w33000" target="_blank" rel="noopener">Preprint</a>
+<button type="button" class="abstract-trigger" data-modal="abs-wp-1" style="display:inline-block; padding:0.4em 1.1em; margin:0 0.4em 0.4em 0; border:1px solid #ccc; border-radius:4px; background-color:#fff; color:#555; font-size:0.7em; font-weight:600; text-transform:uppercase; letter-spacing:0.05em; text-decoration:none; cursor:pointer;">Abstract</button><a href="https://www.nber.org/papers/w33000" target="_blank" rel="noopener" style="display:inline-block; padding:0.4em 1.1em; margin:0 0.4em 0.4em 0; border:1px solid #ccc; border-radius:4px; background-color:#fff; color:#555; font-size:0.7em; font-weight:600; text-transform:uppercase; letter-spacing:0.05em; text-decoration:none; cursor:pointer;">Preprint</a>
 <!-- Alternative link kept for reference, not shown: CEP Discussion Paper No. 2037 — https://cep.lse.ac.uk/pubs/download/dp2037.pdf -->
 
 <dialog id="abs-wp-1" class="pub-modal" markdown="1">
@@ -65,7 +65,7 @@ Placeholder abstract — summarize the paper's motivation, data, and main findin
 *Filippo Boeri*, joint with [Olmo Silva](https://personal.lse.ac.uk/silvao/)  
 *Revise & Resubmit, Journal of Urban Economics*
 
-<button class="pub-badge abstract-trigger" data-modal="abs-wp-2" type="button">Abstract</button> <a class="pub-badge" href="https://cep.lse.ac.uk/pubs/download/dp2174.pdf" target="_blank" rel="noopener">Preprint</a>
+<button type="button" class="abstract-trigger" data-modal="abs-wp-2" style="display:inline-block; padding:0.4em 1.1em; margin:0 0.4em 0.4em 0; border:1px solid #ccc; border-radius:4px; background-color:#fff; color:#555; font-size:0.7em; font-weight:600; text-transform:uppercase; letter-spacing:0.05em; text-decoration:none; cursor:pointer;">Abstract</button><a href="https://cep.lse.ac.uk/pubs/download/dp2174.pdf" target="_blank" rel="noopener" style="display:inline-block; padding:0.4em 1.1em; margin:0 0.4em 0.4em 0; border:1px solid #ccc; border-radius:4px; background-color:#fff; color:#555; font-size:0.7em; font-weight:600; text-transform:uppercase; letter-spacing:0.05em; text-decoration:none; cursor:pointer;">Preprint</a>
 
 <dialog id="abs-wp-2" class="pub-modal" markdown="1">
 <form method="dialog">
@@ -82,7 +82,7 @@ Placeholder abstract — summarize the paper's motivation, data, and main findin
 *Filippo Boeri*, joint with [Riccardo Crescenzi](https://personal.lse.ac.uk/crescenz/)  
 *Under Review*
 
-<button class="pub-badge abstract-trigger" data-modal="abs-wp-3" type="button">Abstract</button> <a class="pub-badge" href="https://drive.google.com/file/d/1RS_I1j3SrohGfHKyMuC9DGsHHwM6vw5b/view?usp=drive_link" target="_blank" rel="noopener">Preprint</a>
+<button type="button" class="abstract-trigger" data-modal="abs-wp-3" style="display:inline-block; padding:0.4em 1.1em; margin:0 0.4em 0.4em 0; border:1px solid #ccc; border-radius:4px; background-color:#fff; color:#555; font-size:0.7em; font-weight:600; text-transform:uppercase; letter-spacing:0.05em; text-decoration:none; cursor:pointer;">Abstract</button><a href="https://drive.google.com/file/d/1RS_I1j3SrohGfHKyMuC9DGsHHwM6vw5b/view?usp=drive_link" target="_blank" rel="noopener" style="display:inline-block; padding:0.4em 1.1em; margin:0 0.4em 0.4em 0; border:1px solid #ccc; border-radius:4px; background-color:#fff; color:#555; font-size:0.7em; font-weight:600; text-transform:uppercase; letter-spacing:0.05em; text-decoration:none; cursor:pointer;">Preprint</a>
 
 <dialog id="abs-wp-3" class="pub-modal" markdown="1">
 <form method="dialog">
@@ -91,55 +91,4 @@ Placeholder abstract — summarize the paper's motivation, data, and main findin
 
 Placeholder abstract — summarize the paper's motivation, data, and main findings here. Replace this text with the actual abstract.
 
-</dialog>
-
----
-
-**4. Work from Home and Firm Productivity: The Role of ICT and Size**  
-*Filippo Boeri*, joint with [Riccardo Crescenzi](https://personal.lse.ac.uk/crescenz/) and [Davide Rigo](https://daviderigo.weebly.com/)  
-*Under Review*
-
-<button class="pub-badge abstract-trigger" data-modal="abs-wp-4" type="button">Abstract</button> <a class="pub-badge" href="https://www.ifo.de/en/cesifo/publications/2025/working-paper/work-home-and-firm-productivity-role-ict-and-size" target="_blank" rel="noopener">Preprint</a>
-
-<dialog id="abs-wp-4" class="pub-modal" markdown="1">
-<form method="dialog">
-<button class="pub-modal-close" aria-label="Close">×</button>
-</form>
-
-Placeholder abstract — summarize the paper's motivation, data, and main findings here. Replace this text with the actual abstract.
-
-</dialog>
-
----
-
-**5. The New Geography of Remote Workers and Firm Productivity: Evidence from Matched Employer-Employee Data**  
-*Filippo Boeri*, joint with [Davide Rigo](https://daviderigo.weebly.com/)
-
-<button class="pub-badge abstract-trigger" data-modal="abs-wp-5" type="button">Abstract</button> <a class="pub-badge" href="https://www.dropbox.com/scl/fi/wsc14wb7q77dblhc34jok/WFH_labour_markets_France.pdf?rlkey=m5xn6g0c70te3ufse3ljvg0pv&st=alwbbgfg&dl=0" target="_blank" rel="noopener">Preprint</a> <a class="pub-badge" href="https://www.youtube.com/live/50ABfBWxOuk?si=f6h1gjkbp3d8CyD4&t=7781" target="_blank" rel="noopener">Seminar</a>
-
-<dialog id="abs-wp-5" class="pub-modal" markdown="1">
-<form method="dialog">
-<button class="pub-modal-close" aria-label="Close">×</button>
-</form>
-
-Placeholder abstract — summarize the paper's motivation, data, and main findings here. Replace this text with the actual abstract.
-
-</dialog>
-
----
-
-## Selected Work in Progress
-
-**Aging, Technology and Migration**  
-*Filippo Boeri*, joint with [Daniele Angelini](https://sites.google.com/view/daniele-angelini/home) (University of Vienna)
-
-<script>
-document.addEventListener('DOMContentLoaded', function () {
-  document.querySelectorAll('.abstract-trigger').forEach(function (btn) {
-    btn.addEventListener('click', function () {
-      var modal = document.getElementById(btn.getAttribute('data-modal'));
-      if (modal) { modal.showModal(); }
-    });
-  });
-});
-</script>
+</dialo
