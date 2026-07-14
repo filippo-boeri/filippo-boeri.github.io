@@ -13,12 +13,15 @@
   border-radius: 50%;
 }
 
+dialog:not([open]) {
+  display: none !important;
+}
+
 .pub-badge {
   display: inline-block !important;
   padding: 0.4em 1.1em;
   margin: 0 0.4em 0.4em 0;
   border: 1px solid #ccc !important;
-  border-bottom: 1px solid #ccc !important;
   border-radius: 4px;
   background-color: #fff !important;
   background-image: none !important;
