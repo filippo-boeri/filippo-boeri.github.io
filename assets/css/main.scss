@@ -88,7 +88,7 @@ html {
 }
 
 .greedy-nav a {
-  font-size: 22px !important;
+  font-size: 18px !important;
 }
 
 .sidebar {
@@ -98,4 +98,9 @@ html {
 .greedy-nav a.site-title {
   opacity: 1 !important;
   color: #2b2b2b !important;
+}
+
+.masthead__inner-wrap {
+  padding-top: 1.5em !important;
+  padding-bottom: 1.5em !important;
 }
