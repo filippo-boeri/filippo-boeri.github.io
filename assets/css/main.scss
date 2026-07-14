@@ -6,6 +6,22 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+html {
+  font-size: 11px !important;
+
+  @include breakpoint($medium) {
+    font-size: 12px !important;
+  }
+
+  @include breakpoint($large) {
+    font-size: 12px !important;
+  }
+
+  @include breakpoint($x-large) {
+    font-size: 13px !important;
+  }
+}
+
 .author__avatar {
   width: auto !important;
   height: auto !important;
@@ -18,6 +34,11 @@
   border-radius: 4px !important;
   border: none !important;
   padding: 0 !important;
+}
+
+.home-bio p {
+  font-size: 17px !important;
+  line-height: 1.75 !important;
 }
 
 .page__content hr {
