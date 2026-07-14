@@ -63,7 +63,7 @@ plugins:
 author:
   name: "Filippo Boeri"
   avatar: "/assets/images/Boeri_photo_2.jpg"
-  bio: ""
+  bio: "Assistant Professor"
   location: "London, UK"
   links:
     - label: "Email"
@@ -73,7 +73,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/filippo-boeri-04388867"
       
-description: "Assistant Professor of Economics at City St George's, University of London..."
+description: "Assistant Professor of Economics at City St George's, University of London"
 
 footer:
   links:
