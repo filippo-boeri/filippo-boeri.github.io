@@ -80,8 +80,8 @@ joint with [Riccardo Crescenzi](https://personal.lse.ac.uk/crescenz/)
 
 <div id="abs-wp-3" class="pub-abstract-box pub-hidden" markdown="1">
 
-Placeholder abstract — summarize the paper's motivation, data, and main findings here. Replace this text with the actual abstract.
-
+This study examines the relationship between reshoring and automation in a context shaped by rising uncertainty and rapid technological advancements. We analyse how idiosyncratic shocks to foreign subsidiaries of multinational business groups prompt a reduction in international activities, driving shifts in the parent firm’s skill composition and domestic investment in automation. Our analysis leverages newly geolocated data covering over 8 million foreign affiliates, firm-level customs data, and a unique matched employer-
+employee dataset covering the universe of French firms and workers. Our findings reveal that natural disasters affecting foreign affiliates significantly increase parent firms’ propensity to adopt automation technologies and positively affect domestic wages. These effects are concentrated in robot-intensive sectors and among occupations intensive in non-routine tasks, while impacts on other industries are negligible. These results suggest that firms operating in automation-intensive industries react to adverse shocks affecting their foreign affiliates by replacing low-skilled foreign labour with domestic automation.
 </div>
 
 **The New Geography of Remote Workers and Firm Productivity: Evidence from Matched Employer-Employee Data**  
@@ -91,8 +91,7 @@ joint with [Davide Rigo](https://daviderigo.weebly.com/)
 
 <div id="abs-wp-5" class="pub-abstract-box pub-hidden" markdown="1">
 
-This study examines the relationship between reshoring and automation in a context shaped by rising uncertainty and rapid technological advancements. We analyse how idiosyncratic shocks to foreign subsidiaries of multinational business groups prompt a reduction in international activities, driving shifts in the parent firm’s skill composition and domestic investment in automation. Our analysis leverages newly geolocated data covering over 8 million foreign affiliates, firm-level customs data, and a unique matched employer-
-employee dataset covering the universe of French firms and workers. Our findings reveal that natural disasters affecting foreign affiliates significantly increase parent firms’ propensity to adopt automation technologies and positively affect domestic wages. These effects are concentrated in robot-intensive sectors and among occupations intensive in non-routine tasks, while impacts on other industries are negligible. These results suggest that firms operating in automation-intensive industries react to adverse shocks affecting their foreign affiliates by replacing low-skilled foreign labour with domestic automation.
+The COVID-19 pandemic has profoundly reshaped commuting patterns and work dynamics across the globe. Using matched employer-employee data on the whole universe of French workers, we study the effect of post-pandemic changes in workers’ commuting patterns on firm-level outcomes. We find that the average French firm saw an 8% increase in employee commute distances compared to the pre-pandemic period. This shift was primarily driven by incumbent firms hiring individuals who live further away, and was especially notable in occupations with high work-from-home (WFH) potential. In the aftermath of the pandemic, firms with larger increases in commute distances exhibited gains in value-added, productivity and hours worked. Overall, our findings highlight the positive impacts of the pandemic-induced shift towards remote working on firms.
 
 </div>
 
@@ -102,3 +101,4 @@ employee dataset covering the universe of French firms and workers. Our findings
 
 **Aging, Technology and Migration**  
 joint with [Daniele Angelini](https://sites.google.com/view/daniele-angelini/home) (University of Vienna)
+*Part of VisitINPS Project*
