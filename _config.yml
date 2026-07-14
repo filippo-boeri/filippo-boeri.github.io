@@ -67,13 +67,12 @@ author:
   links:
     - label: "filippo.boeri [at] citystgeorges.ac.uk"
       icon: "fas fa-fw fa-envelope-square"
-      url: "#"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/filippo-boeri-04388867"
     - label: "X"
       icon: "fab fa-x-twitter"
-      url: "https://x.com/YOUR_HANDLE"
+      url: "https://x.com/filippo_boeri"
       
 description: "Assistant Professor of Economics at City St George's, University of London"
 
