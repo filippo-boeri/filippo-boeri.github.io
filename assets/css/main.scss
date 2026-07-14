@@ -81,3 +81,14 @@ html {
   line-height: 1.65;
   color: #333;
 }
+
+.home-photo {
+  float: left;
+  width: 180px;
+  margin: 0 1.5em 1em 0;
+  border-radius: 4px;
+}
+
+.home-clear {
+  clear: both;
+}
