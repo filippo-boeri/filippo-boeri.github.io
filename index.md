@@ -1,10 +1,13 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
-author_profile: true
+author_profile: false
+classes: wide
 ---
+
+<img src="/assets/images/Boeri_photo_2.jpg" alt="Filippo Boeri" class="home-photo">
+
 I am an Assistant Professor of Economics at [City St George's, University of London](https://www.citystgeorges.ac.uk/about/schools/policy-global-affairs/economics) (Department of Economics) and a Visiting Fellow at the [LSE](https://www.lse.ac.uk/) (Department of Geography and Environment).
 
-My main research interests lie at the intersection of urban economics, economic geography and international trade, with a particular focus on the role of technological shocks in the rise of inequalities across regions and different socio-economic groups. 
+My main research interests lie at the intersection of urban economics, economic geography and international trade, with a particular focus on the role of technological shocks in the rise of inequalities across regions and different socio-economic groups.
+
+<div class="home-clear"></div>
