@@ -1,0 +1,67 @@
+---
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+.author__avatar img {
+  width: 110px;
+  height: 110px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+
+.pub-badge {
+  display: inline-block;
+  padding: 0.35em 1em;
+  margin: 0 0.4em 0.4em 0;
+  border: 1px solid #d0d0d0;
+  border-radius: 6px;
+  background-color: #f7f7f7;
+  color: #333 !important;
+  font-size: 0.75em;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  text-decoration: none !important;
+  cursor: pointer;
+  transition: background-color 0.15s ease, transform 0.15s ease;
+}
+
+.pub-badge:hover {
+  background-color: #e8e8e8;
+  transform: translateY(-1px);
+}
+
+.pub-modal {
+  max-width: 480px;
+  width: 90%;
+  border: none;
+  border-radius: 8px;
+  padding: 1.75em;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.25);
+  line-height: 1.6;
+}
+
+.pub-modal::backdrop {
+  background: rgba(0, 0, 0, 0.55);
+}
+
+.pub-modal-close {
+  float: right;
+  border: none;
+  background: none;
+  font-size: 1.3em;
+  line-height: 1;
+  cursor: pointer;
+  color: #888;
+  padding: 0;
+  margin-bottom: 0.5em;
+}
+
+.pub-modal-close:hover {
+  color: #333;
+}
