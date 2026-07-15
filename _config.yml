@@ -67,6 +67,7 @@ author:
   links:
     - label: "filippo.boeri [at] citystgeorges.ac.uk"
       icon: "fas fa-fw fa-envelope-square"
+      url: "#"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/filippo-boeri-04388867"
