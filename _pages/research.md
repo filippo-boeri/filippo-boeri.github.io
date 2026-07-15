@@ -61,7 +61,7 @@ six consecutive UK Censuses (1851–1911), coupled with census-level workers’ 
 </div>
 
 **Work from Home and Firm Productivity: The Role of ICT and Size**  
-joint with [Riccardo Crescenzi](https://personal.lse.ac.uk/crescenz/) and [Davide Rigo](https://daviderigo.weebly.com/)  
+joint with [Riccardo Crescenzi](https://personal.lse.ac.uk/crescenz/) and [Davide Rigo](https://daviderigo.github.io/)  
 CESifo Working Paper No. 12253  -  *Under Review*
 
 <button type="button" onclick="document.getElementById('abs-wp-4').classList.toggle('pub-hidden')" style="display:inline-block; padding:0.4em 1.1em; margin:0 0.4em 0.4em 0; border:1px solid #ccc; border-radius:4px; background-color:#fff; color:#555; font-size:0.7em; font-weight:600; text-transform:uppercase; letter-spacing:0.05em; text-decoration:none; cursor:pointer;">Abstract</button><a href="https://www.ifo.de/en/cesifo/publications/2025/working-paper/work-home-and-firm-productivity-role-ict-and-size" target="_blank" rel="noopener" style="display:inline-block; padding:0.4em 1.1em; margin:0 0.4em 0.4em 0; border:1px solid #ccc; border-radius:4px; background-color:#fff; color:#555; font-size:0.7em; font-weight:600; text-transform:uppercase; letter-spacing:0.05em; text-decoration:none; cursor:pointer;">Preprint</a>
@@ -85,7 +85,7 @@ employee dataset covering the universe of French firms and workers. Our findings
 </div>
 
 **The New Geography of Remote Workers and Firm Productivity: Evidence from Matched Employer-Employee Data**  
-joint with [Davide Rigo](https://daviderigo.weebly.com/)
+joint with [Davide Rigo](https://daviderigo.github.io/)
 
 <button type="button" onclick="document.getElementById('abs-wp-5').classList.toggle('pub-hidden')" style="display:inline-block; padding:0.4em 1.1em; margin:0 0.4em 0.4em 0; border:1px solid #ccc; border-radius:4px; background-color:#fff; color:#555; font-size:0.7em; font-weight:600; text-transform:uppercase; letter-spacing:0.05em; text-decoration:none; cursor:pointer;">Abstract</button><a href="https://www.dropbox.com/scl/fi/wsc14wb7q77dblhc34jok/WFH_labour_markets_France.pdf?rlkey=m5xn6g0c70te3ufse3ljvg0pv&st=alwbbgfg&dl=0" target="_blank" rel="noopener" style="display:inline-block; padding:0.4em 1.1em; margin:0 0.4em 0.4em 0; border:1px solid #ccc; border-radius:4px; background-color:#fff; color:#555; font-size:0.7em; font-weight:600; text-transform:uppercase; letter-spacing:0.05em; text-decoration:none; cursor:pointer;">Preprint</a>
 
